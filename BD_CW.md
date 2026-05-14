@@ -9,7 +9,8 @@
 
 ## ER-діаграма
 
-<img width="1306" height="685" alt="image" src="https://github.com/user-attachments/assets/95d1ab08-3d0e-4512-8d17-f7078bbaf15c" />
+<img width="1279" height="665" alt="image" src="https://github.com/user-attachments/assets/d0b2984f-c0a4-4547-a733-a585d9800603" />
+
 
 
 
